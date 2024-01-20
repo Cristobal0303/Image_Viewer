@@ -49,7 +49,7 @@ public class MainFrame extends JFrame {
                 throw new RuntimeException(ex);
 
             }
-        };
+        });
 
         return button;
 
